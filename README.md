@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, i'm Tony Vervoot</p>
 
 ## ✒ About me
-Passionate about Web development since the end of the 90s, I developed my skills in HTML, CSS, PHP as an autodidact.
+> Passionate about Web development since the end of the 90s, I developed my skills in HTML, CSS, PHP as an autodidact.
 Several years later, I decided to follow a Web Developer training in order to update my skills and pursue my career in this field.
 
 ## 👨‍💻 My Skills
