@@ -20,7 +20,7 @@ Several years later, I decided to follow a Web Developer training in order to up
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## ☕ Social
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/3xgDiKU)
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=accusoft&logoColor=white)](https://bit.ly/3xgDiKU)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3zbwmQs)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/3NhWWf2)
 
