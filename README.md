@@ -24,7 +24,7 @@ Several years later, I decided to follow a Web Developer training in order to up
 ![W3C](https://img.shields.io/badge/W3C-1572B6?style=for-the-badge&logo=w3c&logoColor=white)
 
 ## ☕ Social
-[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=accusoft&logoColor=white)](https://bit.ly/3xgDiKU)
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=accusoft&logoColor=white)](https://bit.ly/3O2XGVq)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3zbwmQs)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/3NhWWf2)
 
