@@ -23,6 +23,10 @@ Several years later, I decided to follow a Web Developer training in order to up
 ![ACCESSIBILITY](https://img.shields.io/badge/Accessibility-333333?style=for-the-badge)
 ![W3C](https://img.shields.io/badge/W3C-1572B6?style=for-the-badge&logo=w3c&logoColor=white)
 
+## 👨‍💻 My Next Skills
+![SASS](https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white)
+![typescript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## ☕ Social
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=accusoft&logoColor=white)](https://bit.ly/3O2XGVq)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3zbwmQs)
