@@ -1,10 +1,9 @@
-# <p align="center">👋 Hi, i'm Tony Vervoot</p>
+# <p align="center">👋 Salut, moi c'est Tony</p>
 
-## ✒ About me
-> Passionate about Web development since the end of the 90s, I developed my skills in HTML, CSS, PHP as an autodidact.
-Several years later, I decided to follow a Web Developer training in order to update my skills and pursue my career in this domain.
+## ✒ A propos de moi
+> Passionné par le développement Web depuis la fin des années 90, j'ai développé mes compétences en HTML, CSS, PHP en autodidacte. Quelques années plus tard, j'ai décidé de suivre une formation de Développeur Web afin de mettre à jour mes compétences et poursuivre ma carrière dans ce domaine.
 
-## 👨‍💻 My Skills
+## 👨‍💻 Mes Compétences
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +22,7 @@ Several years later, I decided to follow a Web Developer training in order to up
 ![ACCESSIBILITY](https://img.shields.io/badge/Accessibility-333333?style=for-the-badge)
 ![W3C](https://img.shields.io/badge/W3C-1572B6?style=for-the-badge&logo=w3c&logoColor=white)
 
-## 👨‍💻 My Next Skills
+## 👨‍💻 Mes prochaines compétences
 ![SASS](https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white)
 ![typescript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 
