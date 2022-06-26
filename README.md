@@ -1,4 +1,4 @@
-# <p align="center">👋 Salut, moi c'est Tony</p>
+# <p align="center">👋 Salut, moi c'est Tony.</p>
 
 ## ✒ A propos de moi
 > Passionné par le développement Web depuis la fin des années 90, j'ai développé mes compétences en HTML, CSS, PHP en autodidacte. Quelques années plus tard, j'ai décidé de suivre une formation de Développeur Web afin de mettre à jour mes compétences et poursuivre ma carrière dans ce domaine.
