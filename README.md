@@ -24,6 +24,7 @@
 
 ## 👨‍💻 Mes prochaines compétences
 ![SASS](https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8411fa?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![typescript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## ☕ Social
