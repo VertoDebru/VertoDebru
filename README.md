@@ -23,7 +23,7 @@
 ![W3C](https://img.shields.io/badge/W3C-1572B6?style=for-the-badge&logo=w3c&logoColor=white)
 
 ## 👨‍💻 Mes prochaines compétences
-![ReactNative](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8411fa?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![typescript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
